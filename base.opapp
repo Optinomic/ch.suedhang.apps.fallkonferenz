@@ -22,7 +22,7 @@ website = http://www.optinomic.com/
 __opapp_include(readme.md)
 
 [template overview 6 35]
-__opapp_include(optinomic_lib/dist/templates/com.optinomic.apps.pdf.patient.allgemein.html)
+__opapp_include(optinomic_lib/dist/templates/ch.suedhang.apps.fallkonferenz.html)
 
 
 [javascript]
